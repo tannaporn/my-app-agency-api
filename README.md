@@ -12,9 +12,9 @@ yarn install
 run the development server:
 
 ```bash
-npm run dev
+npm start
 # or
-yarn dev
+yarn start
 ```
 
 ## Call api example
